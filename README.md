@@ -23,6 +23,7 @@ error\
 path\
 surface\
 character\
+complex\
 void\
 null/zero\
 environment\
