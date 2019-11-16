@@ -3,8 +3,8 @@
 
 ### Questionning the ground
 
-An open conversation across fields around their own visions, concepts, and perspectives on our common language.
-
+An open conversation across fields to collect samples, visions and stories stemming from plural-minds tuned on specific-words, as a lucid vagabondage in-between possible perspectives on a same THING.
+One word, many ways of seeing.
 
 
 ### Suggested terms
