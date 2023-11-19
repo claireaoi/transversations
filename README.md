@@ -46,8 +46,8 @@ basis\
 event\
 equality\
 identity\
-local/global\
-granularity\
+local/global\,Impact(n)=symmetric(a)\
+granularity\,Synthesis(n)=binary(a)\
 unit\
 quantity\
 distance\
