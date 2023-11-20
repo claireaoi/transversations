@@ -14,7 +14,7 @@ agent\
 representation\
 universality\
 mutation/transformation\
-* map\
+\* map\\,back(n)=physical(a);*not*gravity;prototype is sky [sky!=ground]
 randomness\
 element\
 variable\
