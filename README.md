@@ -1,9 +1,9 @@
 
 # Transversation
 
-### Questionning the ground
+### Questionning the ground*
 
-An open conversation across fields to collect samples, visions and stories stemming from plural-minds tuned on specific-words, as a lucid vagabondage in-between possible perspectives on a same THING.\
+An open conversation across fields to collect samples, visions and stories stemming from plural-minds tuned on specific-words, as a lucid vagabondage in-between possible perspectives on a same THING*.\
 One word, many ways of seeing.
 
 
@@ -14,7 +14,7 @@ agent\
 representation\
 universality\
 mutation/transformation\
-map\
+* map\
 randomness\
 element\
 variable\
